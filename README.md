@@ -1,4 +1,4 @@
-# BOULANGERIE
+# boulangerie
 
 ## General Info
 Three page static site
